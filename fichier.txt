@@ -15,7 +15,11 @@ bbbbbbbbbbbbbbbbbbbbb
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 gggggggggggggggggggggllllllllllllllllllllllll
+=======
+
+>>>>>>> e3adf84 (first commit)
 =======
 
 >>>>>>> e3adf84 (first commit)
