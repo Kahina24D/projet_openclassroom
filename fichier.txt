@@ -14,6 +14,10 @@ bbbbbbbbbbbbbbbbbbbbb
 
 
 
+<<<<<<< HEAD
 gggggggggggggggggggggllllllllllllllllllllllll
+=======
+
+>>>>>>> e3adf84 (first commit)
 
 hhhhhhhhhhhhhhhhhhhhhhh
