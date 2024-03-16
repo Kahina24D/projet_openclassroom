@@ -1,27 +1,4 @@
-hhhhhhhhhhhhhhhhh
-
-bbbbbbbbbbbbbbbbbbbbb
-
-
-
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-gggggggggggggggggggggllllllllllllllllllllllll
-=======
-
->>>>>>> e3adf84 (first commit)
-=======
-
->>>>>>> e3adf84 (first commit)
-
-hhhhhhhhhhhhhhhhhhhhhhh
+oooooooooooooooooooooooo
+ppppppppppppppppppppp
+ooooooooooooooooooo
+kkkkkkkkkkkkkkkkkkkkkk
